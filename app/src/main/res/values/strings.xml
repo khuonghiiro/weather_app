@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="nhiet_do_C" translatable="false">%1$s°C</string>
+    <string name="nhiet_do_F" translatable="false">%1$s°F</string>
+    <string name="time_cap_nhat">Time updates: %1$s:%2$s</string>
+    <string name="do_am">Humidity: %1$s%%</string>
+    <string name="mui_gio">Time zone:%1$s</string>
+    <string name="cam_thay_doC">Feel: %1$s°C</string>
+    <string name="cam_thay_doF">Feel: %1$s°F</string>
+    <string name="quoc_gia">Country: %1$s</string>
+
+    <string-array name="day_of_week">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string name="lich_su">History</string>
+</resources>

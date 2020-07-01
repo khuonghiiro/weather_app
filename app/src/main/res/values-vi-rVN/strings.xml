@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thời tiết</string>
+    <string name="time_cap_nhat">Thời gian cập nhật: %1$s:%2$s</string>
+    <string name="do_am">Đổ ẩm: %1$s%%</string>
+    <string name="mui_gio">Múi giờ: %1$s</string>
+    <string name="cam_thay_doC">Cảm thấy: %1$s°C</string>
+    <string name="cam_thay_doF">Cảm thấy: %1$s°F</string>
+    <string name="quoc_gia">Quốc gia: %1$s</string>
+    <string name="lich_su">Lịch sử</string>
+</resources>
